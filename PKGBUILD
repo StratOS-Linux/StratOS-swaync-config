@@ -1,7 +1,7 @@
 # Maintainer: @magitian <magitian@duck.com>
 pkgname=stratos-swaync-config
 pkgver=1.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Swaync configuration for StratOS"
 arch=('any')
 license=('GPL3')
