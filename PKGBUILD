@@ -7,6 +7,7 @@ arch=('any')
 license=('GPL3')
 depends=(
     'swaync'
+	'libnotify'
 )
 source=()
 install=stratos-swaync-config.install
